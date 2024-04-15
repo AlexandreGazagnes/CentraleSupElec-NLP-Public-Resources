@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "CentraleCasa"
-version = "0.1.0"
-description = "This public repository contains the notebooks and the data used for both FINSIH THE STATEMENT"
+version = "0.0.1"
+description = "This public repository contains the notebooks and the data used for BBA Program NLP course"
 authors = ["AlexandreGazagnes"]
 readme = "README.md"
 
