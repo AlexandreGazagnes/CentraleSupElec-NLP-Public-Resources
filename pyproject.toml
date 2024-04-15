@@ -1,0 +1,85 @@
+[tool.poetry]
+name = "CentraleCasa"
+version = "0.1.0"
+description = "This public repository contains the notebooks and the data used for both FINSIH THE STATEMENT"
+authors = ["AlexandreGazagnes"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.12"
+# pep8
+# autopep8
+
+
+[tool.poetry.group.dev.dependencies]
+ipython = "^8.23.0"
+python-dotenv = "^1.0.1"
+pre-commit = "^3.7.0"
+ipykernel = "^6.29.4"
+
+
+[tool.poetry.group.back.dependencies]
+requests = "^2.31.0"
+fastapi = "^0.110.1"
+uvicorn = "^0.29.0"
+
+
+[tool.poetry.group.viz.dependencies]
+missingno = "^0.5.2"
+seaborn = "^0.13.2"
+plotly = "^5.20.0"
+wordcloud = "^1.9.3"
+
+[tool.poetry.group.front.dependencies]
+streamlit = "^1.33.0"
+
+[tool.poetry.group.notebook.dependencies]
+jupyter = "^1.0.0"
+notebook = "^7.1.2"
+jupyterlab = "^4.1.6"
+jupytext = "^1.16.1"
+nbconvert = "^7.16.3"
+
+
+[tool.poetry.group.data.dependencies]
+pandas = "^2.2.1"
+pandarallel = "^1.6.5"
+# numpy = "^1.26.4"
+scikit-learn = "^1.4.2"
+scipy = "^1.13.0"
+statsmodels = "^0.14.1"
+
+[tool.poetry.group.nlp.dependencies]
+nltk = "^3.8.1"
+spacy = "^3.7.4"
+gensim = "^4.3.2"
+transformers = "^4.39.3"
+
+[tool.poetry.group.dl.dependencies]
+tensorflow = "^2.16.1"
+tensorboard = "^2.16.2"
+scikeras = "^0.12.0"
+
+
+[tool.poetry.group.tests.dependencies]
+pytest = "^8.1.1"
+coverage = "^7.4.4"
+coverage-badge = "^1.1.0"
+
+
+[tool.poetry.group.codequality.dependencies]
+black = {extras = ["jupyter"], version = "^24.3.0"}
+ruff = "^0.3.5"
+pre-commit = "^3.7.0"
+isort = "^5.13.2"
+pep8 = "^1.7.1"
+flake8 = "^7.0.0"
+
+[tool.poetry.group.docs.dependencies]
+mkdocs = "^1.5.3"
+mkdocs-material = "^9.5.17"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

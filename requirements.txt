@@ -1,0 +1,37 @@
+pandas          # DataFrame
+numpy           # Matrix
+
+scikit-learn    # ML, PCA, Clustering
+scipy           # Scientific computations
+statsmodels     # Advanced stat tools
+
+matplotlib      # Viz 
+seaborn         # Viz
+plotly          # Viz
+missingno       # Viz
+
+jupyter         # Notebook
+notebook        # Notebook
+jupyterlab      # Notebook
+jupytext        # Notebook
+nbconvert       # Notebook
+
+pytest          # Tests
+black           # Code formating
+black[jupyter]  # Code formationg
+mypy            # Code QA
+isort           # Code formating
+pep8            # Code formating
+flake8          # Code formating
+
+nltk            # nlp old tool
+spacy           # nlp 'new' tool
+wordcloud       # nlp viz
+tensorflow      # deep learning
+gensim          # embedding
+transformers    # hugging face
+
+fastapi         # back end 
+uvicorn         # WSGI
+streamlit       # front end
+requests        # HTTP client
