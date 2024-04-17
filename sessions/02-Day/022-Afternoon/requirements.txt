@@ -1,0 +1,15 @@
+pandas
+
+ipython
+
+uvicorn
+fastapi
+
+pytest
+httpx
+
+scipy==1.10.1
+scikit-learn
+
+# spacy
+gensim
