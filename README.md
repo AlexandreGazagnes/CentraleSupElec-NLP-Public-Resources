@@ -8,10 +8,10 @@
 <!-- ![Pypi](https://github.com/AlexandreGazagnes/Unilasalle-Public-Ressources/actions/workflows/publish.yaml/badge.svg) -->
 # Centrale - NLP Public Ressources 
  
-# MY PERSONNAL PRIVATE API KEY
-# JUST FOR EDUCATION PURPOSE
-# 10 $ FOR EVERYONE, BE SMART AND LEAVE SOME CREDITS FOR FREINDS
-# PLEASE NEVER, EVER, EVER, EVER DO THAT  ;) 
+==> MY PERSONNAL PRIVATE API KEY
+==> JUST FOR EDUCATION PURPOSE
+==> 10 $ FOR EVERYONE, BE SMART AND LEAVE SOME CREDITS FOR FREINDS
+==> PLEASE NEVER, EVER, EVER, EVER DO THAT  ;) 
 OPENAI _ API _ KEY="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"
 
 ## About
