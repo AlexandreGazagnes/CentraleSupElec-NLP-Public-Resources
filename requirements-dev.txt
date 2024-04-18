@@ -1,5 +1,6 @@
 ipython
 python-dotenv
+pre-commit
 
 requests        # HTTP client
 fastapi         # back end 
@@ -42,3 +43,18 @@ langchain
 tensorflow      # deep learning
 # tensorboard
 # scikeras 
+
+
+pytest          # Tests
+coverage
+coverage-badge
+
+black           # Code formating
+black[jupyter]  # Code formationg
+mypy            # Code QA
+isort           # Code formating
+pep8            # Code formating
+flake8          # Code formating
+
+mkdocs          # docs
+mkdocs-material
