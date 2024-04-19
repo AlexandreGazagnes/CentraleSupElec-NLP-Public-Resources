@@ -3,10 +3,11 @@
 https://docs.google.com/forms/d/e/1FAIpQLSfRs89ct2zSRTK-GhFh8WQPHmJkXF14CIFCT2SizaAmXNgCHg/viewform
 
 # TO DO : 
-- +1 Pt las tquestion
+- +1 Pt last question
 - Fix question reducing LLM 50% 5%
-- One  other question the teacher don't remember
+- One other question the teacher don't remember
 
+# DUE DATE
 Last answer : 10:08 am (French paris time)
 * -1 between 10:08 => 10
 * -1 point for each 1min slice (untill 0)
@@ -53,4 +54,4 @@ Maelle
 Robin
 
 GROUP 7
-Yasse EL MAZOUNI
+Yasser
