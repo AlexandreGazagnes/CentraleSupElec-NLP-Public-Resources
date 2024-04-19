@@ -7,17 +7,10 @@
 ![Doc](https://github.com/AlexandreGazagnes/Unilasalle-Public-Ressources/actions/workflows/docs.yaml/badge.svg) -->
 <!-- ![Pypi](https://github.com/AlexandreGazagnes/Unilasalle-Public-Ressources/actions/workflows/publish.yaml/badge.svg) -->
 # Centrale - NLP Public Ressources 
- 
-==> MY PERSONNAL PRIVATE API KEY
 
-==> JUST FOR EDUCATION PURPOSE
 
-==> 10 $ FOR EVERYONE, BE SMART AND LEAVE SOME CREDITS FOR FREINDS
 
-==> PLEASE NEVER, EVER, EVER, EVER DO THAT  ;) 
-
-OPENAI _ API _ KEY="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"
-
+[Our Song](https://suno.com/song/d1a1b698-cca3-4bc5-b300-867ec996fe19)
 ## About
 
 <table>
