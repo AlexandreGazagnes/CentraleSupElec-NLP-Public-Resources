@@ -1,19 +1,20 @@
+# Exam 
 
-# TEST : 
+## Test : 
 https://docs.google.com/forms/d/e/1FAIpQLSfRs89ct2zSRTK-GhFh8WQPHmJkXF14CIFCT2SizaAmXNgCHg/viewform
 
-# TO DO : 
+## To do : 
 - +1 Pt last question
 - Fix question reducing LLM 50% 5%
 - One other question the teacher don't remember
 
-# DUE DATE
+
+## Due date 
 Last answer : 10:08 am (French paris time)
 * -1 between 10:08 => 10
 * -1 point for each 1min slice (untill 0)
 
-
-# GROUPS
+## GROUPS
 
 GROUP 1 => Andromede ! 
 Aude 
