@@ -1,23 +1,25 @@
 #! /bin/bash
 
 
-# black 
-black .
-black */*.ipynb
-black */*/*.ipynb
-black */*/*/*.ipynb
+# # black 
+# black .
+# black sessions/*.ipynb
+# black sessions/*/*.ipynb
+black sessions/*/*/*.ipynb
+black sessions/*/*/*.py
+
 
 # clean notebooks output
-jupyter nbconvert --clear-output --inplace */*.ipynb
-jupyter nbconvert --clear-output --inplace */*/*.ipynb
-jupyter nbconvert --clear-output --inplace */*/*/*.ipynb
+# jupyter nbconvert --clear-output --inplace sessions/*.ipynb
+# jupyter nbconvert --clear-output --inplace sessions/*/*.ipynb
+jupyter nbconvert --clear-output --inplace sessions/*/*/*.ipynb
 
-# build .html files 
-jupyter nbconvert --to html */*.ipynb
-jupyter nbconvert --to html */*/*.ipynb
-jupyter nbconvert --to html */*/*/*.ipynb
+# # build .html files 
+# jupyter nbconvert --to html sessions /*.ipynb
+# jupyter nbconvert --to html sessions /*/*.ipynb
+jupyter nbconvert --to html sessions/*/*/*.ipynb
 
-# build .pdf files 
-jupyter nbconvert --to pdf */*.ipynb
-jupyter nbconvert --to pdf */*/*.ipynb
-jupyter nbconvert --to pdf */*/*/*.ipynb
+# # build .pdf files 
+# jupyter nbconvert --to pdf sessions/*.ipynb
+# jupyter nbconvert --to pdf sessions/*/*.ipynb
+# jupyter nbconvert --to pdf sessions/*/*/*.ipynb

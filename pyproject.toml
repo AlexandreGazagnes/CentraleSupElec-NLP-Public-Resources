@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "CentraleCasa-Public"
+name = "CentraleSupElec-NLP-Public"
 version = "0.1.0"
 description = "This public repository contains the notebooks and the data used for the course"
 authors = ["AlexandreGazagnes"]
